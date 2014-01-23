@@ -1,0 +1,48 @@
+{
+  "uuid": "6b2c8ed5-e40c-4eb5-b84b-b77948e0de0c",
+  "shortName": "Freedom",
+  "longName": "Freedom",
+  "companyName": "Miles O'Keefe",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+        {"type": "png",
+        "name": "FLAG1",
+        "file": "flag1.png"},
+        {"type": "png",
+        "name": "FLAG2",
+        "file": "flag2.png"},
+        {"type": "png",
+        "name": "FLAG3",
+        "file": "flag3.png"},
+        {"type": "png",
+        "name": "FLAG4",
+        "file": "flag4.png"},
+        {"type": "png",
+        "name": "FLAG5",
+        "file": "flag5.png"},
+        {"type": "png",
+        "name": "FLAG6",
+        "file": "flag6.png"},
+        {"type": "png",
+        "name": "FLAG7",
+        "file": "flag7.png"},
+        {"type": "png",
+        "name": "FLAG8",
+        "file": "flag8.png"},
+        {"type": "png",
+        "name": "FLAG9",
+        "file": "flag9.png"},
+        {"type": "png",
+        "name": "FLAG10",
+        "file": "flag10.png"}
+    ]
+  }
+}
